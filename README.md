@@ -5,7 +5,8 @@
 Create a python virtual environment and install the requirements from the requirements.txt file.
 
 Create a .env file with the following properties: 
-```DISCORD_TOKEN={DISCORD_TOKEN}
+```
+DISCORD_TOKEN={DISCORD_TOKEN}
 INSTANCE_NAME={INSTANCE_NAME}
 LETS_CLOUD_TOKEN={LETS_CLOUD_TOKEN}
 ```
